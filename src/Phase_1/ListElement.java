@@ -1,9 +1,11 @@
 package Phase_1;
 
 public class ListElement {
+	//private variables
 	private ListElement next;
 	private int data;
 	
+	//constructors
 	public ListElement ()
 	{
 		this.data = 0; 
@@ -16,6 +18,7 @@ public class ListElement {
 		this.next = le;
 	}
 	
+	//setters and getter
 	public void setData(int data) {
 		this.data = data;
 	}
