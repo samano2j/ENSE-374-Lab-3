@@ -1,0 +1,7 @@
+
+.settings/org.eclipse.jdt.core.prefs
+.gitattributes
+.DS_Store
+bin/Phase_1/LinkedList.class
+bin/Phase_1/LinkedListTest.class
+bin/Phase_1/ListElement.class
